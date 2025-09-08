@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+h1 {
+  color: #333;
+}
+video, iframe {
+  margin: 20px 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #888;
+}
